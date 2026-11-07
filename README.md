@@ -1,7 +1,7 @@
 # GUWATCH888 - Luxury Digital Timepieces & E-Commerce Web/Mobile App
 **วิชา Internet Programming (IP) | มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
 
-- **ชื่อ-นามสกุล:** นายธนกฤต ยอดเสาดีกุล (Thanakit yodsaodeekul)
+- **ชื่อ-นามสกุล:** นายธนกิจ ยอดเสาดีกุล (Thanakit yodsaodeekul)
 - **รหัสนักศึกษา:** `6730251468`
 - **ฐานข้อมูล MySQL คลาวด์:** `ip_std6730251468` (พอร์ต `3108`)
 - **phpMyAdmin URL:** [http://119.59.102.161/nindamdb/](http://119.59.102.161/nindamdb/index.php?route=/database/structure&db=ip_std6730251468)
