@@ -10,4 +10,4 @@ export const NINDAM_API_URL = 'http://119.59.102.161:3108/nindam_pro_api';
 // GitHub Raw URL for Digital Watches JSON
 export const GITHUB_JSON_URL =
   process.env.EXPO_PUBLIC_GITHUB_JSON_URL ||
-  'https://raw.githubusercontent.com/thanakityod/6730251468IPFinal/main/data/digital_watches.json';
+  'https://raw.githubusercontent.com/thanakityod/nindamproject/main/data/digital_watches.json';
